@@ -1,13 +1,14 @@
 {
-  "name": "one-light-syntax",
+  "name": "woolgathering-light-syntax",
   "theme": "syntax",
   "version": "1.8.0",
-  "description": "Atom One light syntax theme",
+  "description": "Woolgathering One light syntax theme",
   "keywords": [
     "light",
-    "syntax"
+    "syntax",
+    "supercollider"
   ],
-  "repository": "https://github.com/atom/one-light-syntax",
+  "repository": "https://github.com/atom/woolgathering-light-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.40.0"
