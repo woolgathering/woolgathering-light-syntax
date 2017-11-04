@@ -1,6 +1,6 @@
 ## Woolgathering Light Syntax theme
 
-<!-- ![woolgathering-dark-syntax](https://user-images.githubusercontent.com/10873395/32247714-6c12e176-be40-11e7-86b7-380837178336.png) -->
+![woolgathering-dark-syntax](https://user-images.githubusercontent.com/10873395/32403203-20bb5f56-c0f1-11e7-9a33-565424d9c104.png)
 
 > The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
 
