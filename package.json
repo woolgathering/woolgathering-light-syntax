@@ -2,15 +2,15 @@
   "name": "woolgathering-light-syntax",
   "theme": "syntax",
   "version": "1.8.0",
-  "description": "Woolgathering One light syntax theme",
+  "description": "A woolgathering syntax theme",
   "keywords": [
     "light",
     "syntax",
     "supercollider"
   ],
-  "repository": "https://github.com/atom/woolgathering-light-syntax.git",
+  "repository": "https://github.com/woolgathering/woolgathering-light-syntax.git",
   "license": "MIT",
   "engines": {
-    "atom": ">0.40.0"
+    "atom": ">0.50.0"
   }
 }
