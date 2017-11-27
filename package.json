@@ -2,7 +2,7 @@
   "name": "woolgathering-light-syntax",
   "theme": "syntax",
   "version": "1.9.0",
-  "description": "A woolgathering syntax theme",
+  "description": "A woolgathering syntax theme for SuperCollider",
   "keywords": [
     "light",
     "syntax",
